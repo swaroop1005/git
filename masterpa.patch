@@ -1,0 +1,7 @@
+diff --git a/diff2 b/diff2
+index e69de29..7260526 100644
+--- a/diff2
++++ b/diff2
+@@ -0,0 +1 @@
++hello adding new changes
+\ No newline at end of file
